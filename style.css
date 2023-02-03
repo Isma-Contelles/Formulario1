@@ -1,0 +1,73 @@
+input.Entrar{
+    background-color: orange;
+    border: 0ch;
+    color: aliceblue;
+    width: 6cm;
+    height: 1cm;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+fieldset.F1{
+    text-align: center;
+    width: 500px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;  
+}
+
+input{
+    margin: gray;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;    
+}
+p{
+    text-align: left;
+}
+
+legend.T1{
+    font-size: 30px;
+    text-align: left;
+    color: grey;
+}
+
+input.CC{
+    background-color: green;
+    color: white;
+    border: 0ch;
+    width: 6cm;
+    height: 1cm;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
+}
+
+/*formulario*/
+
+legend.T2{
+    font-size: 30px;
+    text-align: left;
+    color: grey;
+}
+fieldset.F2{
+    text-align: center;
+    width: 500px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;  
+}
+
+/*formulario*/
+
+legend.T3{
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+
+span.Politica{
+    text-decoration: underline;   
+}
+fieldset.F3{
+    text-align: center;
+    width: 500px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;  
+}
